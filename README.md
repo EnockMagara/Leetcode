@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0001-two-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0070-climbing-stairs) |
 | [0300-longest-increasing-subsequence](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0322-coin-change) |
 ## Memoization
 |  |
 | ------- |
@@ -66,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0300-longest-increasing-subsequence) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
