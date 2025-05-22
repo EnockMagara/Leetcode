@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0001-two-sum) |
+| [0300-longest-increasing-subsequence](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
@@ -56,8 +57,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0070-climbing-stairs) |
+| [0300-longest-increasing-subsequence](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0300-longest-increasing-subsequence) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0070-climbing-stairs) |
+## Binary Search
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
