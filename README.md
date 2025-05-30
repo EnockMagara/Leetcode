@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0008-string-to-integer-atoi) |
 | [0072-edit-distance](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0072-edit-distance) |
+| [0344-reverse-string](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0344-reverse-string) |
 ## Math
 |  |
 | ------- |
@@ -80,4 +81,5 @@ A collection of LeetCode questions to ace the coding interview
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0088-merge-sorted-array) |
+| [0344-reverse-string](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
