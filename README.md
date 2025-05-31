@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0008-string-to-integer-atoi) |
 | [0072-edit-distance](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0072-edit-distance) |
+| [0125-valid-palindrome](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0344-reverse-string) |
 ## Math
 |  |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0026-remove-duplicates-from-sorted-array](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0141-linked-list-cycle) |
 | [0344-reverse-string](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0344-reverse-string) |
 | [0908-middle-of-the-linked-list](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0908-middle-of-the-linked-list) |
