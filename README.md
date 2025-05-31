@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0300-longest-increasing-subsequence](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0347-top-k-frequent-elements) |
+| [0561-array-partition](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0561-array-partition) |
 ## Hash Table
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview
 | ------- |
 | [0088-merge-sorted-array](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0088-merge-sorted-array) |
 | [0347-top-k-frequent-elements](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0347-top-k-frequent-elements) |
+| [0561-array-partition](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0561-array-partition) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -84,4 +86,12 @@ A collection of LeetCode questions to ace the coding interview
 | [0026-remove-duplicates-from-sorted-array](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0344-reverse-string) |
+## Greedy
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0561-array-partition) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
