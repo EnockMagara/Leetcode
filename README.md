@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0088-merge-sorted-array) |
 | [0300-longest-increasing-subsequence](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0322-coin-change) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
