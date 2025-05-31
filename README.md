@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0026-remove-duplicates-from-sorted-array](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0344-reverse-string) |
+| [0908-middle-of-the-linked-list](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0908-middle-of-the-linked-list) |
 ## Greedy
 |  |
 | ------- |
@@ -94,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0561-array-partition) |
+## Linked List
+|  |
+| ------- |
+| [0908-middle-of-the-linked-list](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
