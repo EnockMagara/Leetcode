@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview
 | ------- |
 | [0001-two-sum](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0141-linked-list-cycle) |
+| [0242-valid-anagram](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0347-top-k-frequent-elements) |
 ## Divide and Conquer
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0347-top-k-frequent-elements) |
 | [0561-array-partition](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0561-array-partition) |
 ## Heap (Priority Queue)
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0008-string-to-integer-atoi](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0008-string-to-integer-atoi) |
 | [0072-edit-distance](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0344-reverse-string) |
 ## Math
 |  |
