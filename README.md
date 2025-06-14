@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0322-coin-change](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0347-top-k-frequent-elements) |
 | [0561-array-partition](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0561-array-partition) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0987-reveal-cards-in-increasing-order) |
 ## Hash Table
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0242-valid-anagram](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0347-top-k-frequent-elements) |
 | [0561-array-partition](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0561-array-partition) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0987-reveal-cards-in-increasing-order) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -118,4 +120,12 @@ A collection of LeetCode questions to ace the coding interview
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0042-trapping-rain-water) |
+## Queue
+|  |
+| ------- |
+| [0987-reveal-cards-in-increasing-order](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0987-reveal-cards-in-increasing-order) |
+## Simulation
+|  |
+| ------- |
+| [0987-reveal-cards-in-increasing-order](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0987-reveal-cards-in-increasing-order) |
 <!---LeetCode Topics End-->
