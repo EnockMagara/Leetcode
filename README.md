@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview
 | ------- |
 | [0001-two-sum](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0141-linked-list-cycle) |
+| [0187-repeated-dna-sequences](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0347-top-k-frequent-elements) |
 ## Divide and Conquer
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0008-string-to-integer-atoi](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0008-string-to-integer-atoi) |
 | [0072-edit-distance](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0125-valid-palindrome) |
+| [0187-repeated-dna-sequences](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0344-reverse-string) |
 ## Math
@@ -128,4 +130,20 @@ A collection of LeetCode questions to ace the coding interview
 |  |
 | ------- |
 | [0987-reveal-cards-in-increasing-order](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0987-reveal-cards-in-increasing-order) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0187-repeated-dna-sequences) |
+## Sliding Window
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0187-repeated-dna-sequences) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
