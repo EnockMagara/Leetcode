@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0026-remove-duplicates-from-sorted-array](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0300-longest-increasing-subsequence](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0347-top-k-frequent-elements) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0042-trapping-rain-water](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0072-edit-distance) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0300-longest-increasing-subsequence](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0322-coin-change) |
 ## Memoization
