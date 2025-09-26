@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview
 ## Breadth-First Search
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0322-coin-change) |
 ## Two Pointers
 |  |
@@ -146,4 +147,16 @@ A collection of LeetCode questions to ace the coding interview
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0187-repeated-dna-sequences) |
+## Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0226-invert-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0226-invert-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
