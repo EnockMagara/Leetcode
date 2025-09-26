@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0322-coin-change](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0347-top-k-frequent-elements) |
 | [0561-array-partition](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0561-array-partition) |
+| [0898-transpose-matrix](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0898-transpose-matrix) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0987-reveal-cards-in-increasing-order) |
 ## Hash Table
 |  |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview
 ## Simulation
 |  |
 | ------- |
+| [0898-transpose-matrix](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0898-transpose-matrix) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0987-reveal-cards-in-increasing-order) |
 ## Bit Manipulation
 |  |
@@ -165,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0226-invert-binary-tree) |
+## Matrix
+|  |
+| ------- |
+| [0898-transpose-matrix](https://github.com/EnockMagara/LeetcodeDaily/tree/master/0898-transpose-matrix) |
 <!---LeetCode Topics End-->
